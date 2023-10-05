@@ -3814,13 +3814,13 @@
 					<key>CodecID</key>
 					<integer>283902580</integer>
 					<key>ConfigData</key>
-					<data>ASccMAEnHQEBJx6mAScfkAE3HPABNx0AATceAAE3H0ABRxzwAUcdAAFHHgABRx9AAVcc8AFXHQABVx4AAVcfQAFnHPABZx0AAWceAAFnH0ABdxzwAXcdAAF3HgABdx9AAYcc8AGHHQABhx4AAYcfQAGXHCABlx0QAZcegQGXHwIBpxzwAacdAAGnHgABpx9AAbccQAG3HQEBtx4QAbcfkAG3DAIB5xzwAecdAAHnHgAB5x9AAfcc8AH3HQAB9x4AAfcfQAIXHFACFx0QAhceIQIXHwICFwwC</data>
+					<data>ASccMAEnHQEBJx6mAScfkAE3HPABNx0AATceAAE3H0ABRxzwAUcdAAFHHgABRx9AAVcc8AFXHQABVx4AAVcfQAFXDAIBZxzwAWcdAAFnHgABZx9AAWcMAgF3HPABdx0AAXceAAF3H0ABdwwCAYcc8AGHHQABhx4AAYcfQAGXHCABlx0QAZcegQGXHwIBpxzwAacdAAGnHgABpx9AAbccQAG3HQEBtx4QAbcfkAG3DAIB5xzwAecdAAHnHgAB5x9AAfcc8AH3HQAB9x4AAfcfQAIXHFACFx0QAhceIQIXHwICFwwC</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>35</integer>
 					<key>WakeConfigData</key>
-					<data>AbcMAgIXDAIBlwcl</data>
+					<data>AVcMAgFnDAIBdwwCAbcMAgIXDAIBlwcl</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
